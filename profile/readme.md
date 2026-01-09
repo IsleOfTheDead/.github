@@ -1,9 +1,3 @@
-<p align="center">
-<a href="https://github.com/IsleOfTheDead">
-<img alt="Isle of the Dead" src="https://raw.githubusercontent.com/IsleOfTheDead/.github/main/images/banner.png"></center>
-</a>
-</p>
-
 ## Join Us
 
 ![Discord](https://raw.githubusercontent.com/IsleOfTheDead/.github/main/images/discord.png)
