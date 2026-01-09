@@ -2,7 +2,15 @@
 
 [![Discord](https://raw.githubusercontent.com/IsleOfTheDead/.github/main/images/discord.png)][discord-href]
 
-## Developers
+## Team
+
+_**TommyPaP**_
+
+_**ExplicitCharles**_
+
+_**LugZ**_
+
+_**Azury**_
 
 _**moldypenguins**_  
 [![GitHub][moldypenguins-github]](https://github.com/moldypenguins)
