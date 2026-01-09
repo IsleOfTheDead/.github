@@ -6,7 +6,7 @@
 
 ## Join Us
 
-![Discord](https://raw.githubusercontent.com/IsleOfTheDead/.github/main/images/banner.png)
+![Discord](https://raw.githubusercontent.com/IsleOfTheDead/.github/main/images/discord.png)
 
 ## Developers
 
