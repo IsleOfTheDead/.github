@@ -15,7 +15,7 @@ _**moldypenguins**_
 [![Discord][moldypenguins-discord]](https://discordapp.com/users/moldypenguins)
 [![Telegram][moldypenguins-telegram]](https://t.me/moldypenguins)  
 [![GitHub Sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=github-sponsors&logoColor=EA4AAA)][sponsor-href]
-[![Ko-Fi](https://img.shields.io/badge/Ko-fi-FF6433?style=for-the-badge&logo=kofi&logoColor=FFDD00)][kofi-href]
+[![Ko-Fi](https://img.shields.io/badge/Ko–fi-30363D?style=for-the-badge&logo=kofi&logoColor=FF6433)][kofi-href]
 [![Buy Me a Coffee](https://img.shields.io/badge/BuyMeACoffee-30363D?style=for-the-badge&logo=buymeacoffee&logoColor=FFDD00)][coffee-href]
 
 <!-- LINKS -->
