@@ -14,7 +14,7 @@
 ![Azury](https://img.shields.io/badge/Azury-30363D?style=for-the-badge)
 [![Discord][discord-src]](https://discordapp.com/users/azuryalpha)
 
-[![GitHub][github]](https://github.com/moldypenguins)
+[![GitHub][moldypenguins-github]](https://github.com/moldypenguins)
 [![Discord][discord-src]](https://discordapp.com/users/moldypenguins)
 [![Telegram][telegram-src]](https://t.me/moldypenguins)
 [![GitHub Sponsors][sponsor-src]](https://github.com/sponsors/moldypenguins)
