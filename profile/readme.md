@@ -10,7 +10,7 @@
 
 ## Developers
 
-_**moldypenguins**_
+_**moldypenguins**_  
 [![GitHub][moldypenguins-github]](https://github.com/moldypenguins)
 [![Discord][moldypenguins-discord]](https://discordapp.com/users/moldypenguins)
 [![Telegram][moldypenguins-telegram]](https://t.me/moldypenguins)  
