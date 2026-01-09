@@ -4,15 +4,14 @@
 
 ## Team
 
-_**TommyPaP**_
+![TommyPaP](https://img.shields.io/badge/TommyPaP-30363D?style=for-the-badge)
 
-_**ExplicitCharles**_
+![ExplicitCharles](https://img.shields.io/badge/ExplicitCharles-30363D?style=for-the-badge)
 
-_**LugZ**_
+![LugZ](https://img.shields.io/badge/LugZ-30363D?style=for-the-badge)
 
-_**Azury**_
+![Azury](https://img.shields.io/badge/Azury-30363D?style=for-the-badge)
 
-_**moldypenguins**_ 
 [![GitHub][moldypenguins-github]](https://github.com/moldypenguins)
 [![Discord][moldypenguins-discord]](https://discordapp.com/users/moldypenguins)
 [![Telegram][moldypenguins-telegram]](https://t.me/moldypenguins)
@@ -21,7 +20,7 @@ _**moldypenguins**_
 [![Buy Me a Coffee][moldypenguins-coffee]](https://buymeacoffee.com/moldypenguins)
 
 <!-- LINKS -->
-[moldypenguins-github]: https://img.shields.io/badge/%20-30363D?style=for-the-badge&logo=github&logoColor=6e5494
+[moldypenguins-github]: https://img.shields.io/badge/moldypenguins-30363D?style=for-the-badge&logo=github&logoColor=6e5494
 [moldypenguins-discord]: https://img.shields.io/badge/%20-30363D?style=for-the-badge&logo=discord&logoColor=5865F2
 [moldypenguins-telegram]: https://img.shields.io/badge/%20-30363D?style=for-the-badge&logo=telegram&logoColor=27A7E7
 [moldypenguins-sponsor]: https://img.shields.io/badge/%20-30363D?style=for-the-badge&logo=github-sponsors&logoColor=EA4AAA
