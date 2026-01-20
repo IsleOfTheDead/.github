@@ -23,3 +23,5 @@ Purpose: quickly orient an AI coding assistant so it can be immediately producti
 * **Context Documentation** - The following official documentation sites are useful context for working in repositories belonging to this organization:
   + `https://community.bistudio.com/wiki/DayZ:Enforce_Script_Syntax`
   + `https://community.bistudio.com/wiki/DayZ:Modding_Structure`
+  + `https://community.bistudio.com/wikidata/external-data/arma-reforger/EnfusionScriptAPIPublic/`
+  + `https://github.com/Jacob-Mango/DayZ-CommunityOnlineTools`
