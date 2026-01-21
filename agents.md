@@ -24,4 +24,8 @@ Purpose: quickly orient an AI coding assistant so it can be immediately producti
   + `https://community.bistudio.com/wiki/DayZ:Enforce_Script_Syntax`
   + `https://community.bistudio.com/wiki/DayZ:Modding_Structure`
   + `https://community.bistudio.com/wikidata/external-data/arma-reforger/EnfusionScriptAPIPublic/`
+  + `https://github.com/Arkensor/DayZ-CommunityFramework`
   + `https://github.com/Jacob-Mango/DayZ-CommunityOnlineTools`
+  + `https://github.com/InclementDab/DayZ-Dabs-Framework`
+  + `https://github.com/InclementDab/DayZ-Editor`
+  + `https://github.com/InclementDab/DayZ-Editor-Loader`
