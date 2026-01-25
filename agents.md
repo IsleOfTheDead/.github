@@ -1,4 +1,4 @@
-# AI Agent Instructions
+# AI Agent Instructions (Organization)
 
 Purpose: quickly orient an AI coding assistant so it can be immediately productive editing, adding features, or fixing bugs.
 
@@ -31,7 +31,7 @@ Purpose: quickly orient an AI coding assistant so it can be immediately producti
   + `https://github.com/InclementDab/DayZ-Editor-Loader`
 
 
-## Commenting Standards (organization)
+## Commenting Standards
 
 To ensure consistent, readable, and searchable code across the organization, follow these comment conventions. Use these for headers, classes, functions, and inline code comments.
 
