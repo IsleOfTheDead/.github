@@ -37,12 +37,13 @@ To ensure consistent, readable, and searchable code across the organization, fol
 
 - File level comments
   - Use a C-style file header at the top of source files:
-    /** @file <filename.ext> */
+    ` /** @file <filename.ext> */ `
   - Example:
-    /** @file player_manager.c */
+    ` /** @file player_manager.c */ `
 
 - Class level comments
   - Use the block style below. The use of @code/@endcode for showing example code is optional.
+```
   /**
    \brief <class description>
    \n usage:
@@ -50,7 +51,9 @@ To ensure consistent, readable, and searchable code across the organization, fol
      <code example goes here>
    @endcode
    */
+```
   - Example:
+```
     /**
      \brief PlayerManager handles spawning and respawn logic.
      \n usage:
@@ -59,17 +62,18 @@ To ensure consistent, readable, and searchable code across the organization, fol
        pm.SpawnPlayer();
      @endcode
     */
+```
 
 - Function level comments
   - Use a compact single-line Doxygen-style brief for functions:
-    /** \brief <function description> */
+    ` /** \brief <function description> */ `
   - Example:
-    /** \brief Spawns a player at a chosen spawn point. */
+    ` /** \brief Spawns a player at a chosen spawn point. */ `
 
 - Code level (inline) comments
   - Use C++/C/JS style single-line comments for short explanations:
-    // <code comment>
-  - For longer inline notes, use block comments sparingly and keep them focused.
+    ` // <code comment> `
+  - For longer inline notes, comment each line separately.
 
 Guidelines:
 - Comment intent, not obvious mechanics. Prefer describing why something exists or important invariants rather than restating the code.
@@ -77,7 +81,7 @@ Guidelines:
 - Keep comments short and precise; follow the organization's requirement to comment every file with the file name and a short description and to comment every function with a short description.
 - When modifying existing files, add or update header/class/function comments to match these styles rather than reformatting unrelated code.
 - Example summary for a source file:
-
+```
   /** @file example.c */
 
   /**
@@ -92,7 +96,5 @@ Guidelines:
   void DoSomething() {
     // Validate input
   }
-
-Keep these examples as templates. Apply them consistently across the codebase.
-
 ```
+Keep these examples as templates. Apply them consistently across the codebase.
