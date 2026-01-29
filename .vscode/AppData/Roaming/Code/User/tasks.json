@@ -1,0 +1,75 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Addon Builder",
+      "detail": "Launches AddonBuilder.exe",
+      "type": "shell",
+      "command": "T:\\Bin\\AddonBuilder\\AddonBuilder.exe"
+    },
+    {
+      "label": "Publisher",
+      "detail": "Launches Publisher.exe",
+      "type": "shell",
+      "command": "T:\\Bin\\Publisher\\Publisher.exe"
+    },
+    {
+      "label": "Object Builder",
+      "detail": "Launches ObjectBuilder.exe",
+      "type": "shell",
+      "command": "T:\\Bin\\ObjectBuilder\\ObjectBuilder.exe"
+    },
+    {
+      "label": "DSUtils",
+      "detail": "Launches DSUtils.exe",
+      "type": "shell",
+      "command": "T:\\Bin\\DsUtils\\DSUtils.exe"
+    },
+    {
+      "label": "TexView",
+      "detail": "Launches TexView.exe",
+      "type": "shell",
+      "command": "T:\\Bin\\ImageToPAA\\TexView.exe"
+    },
+    {
+      "label": "Artistic Style",
+      "type": "shell",
+      "command": "C:\\astyle\\astyle.exe",
+      "args": [
+        "--suffix=none",
+        "--mode=c",
+        "--style=allman",
+        "--indent=spaces=2",
+        "--indent-modifiers",
+        "--indent-switches",
+        "--indent-labels",
+        "--indent-namespaces",
+        "--indent-after-parens",
+        "--indent-preproc-block",
+        "--indent-preproc-define",
+        "--indent-col1-comments",
+        "--pad-oper",
+        "--pad-comma",
+        "--pad-include=none",
+        "--pad-header",
+        "--unpad-paren",
+        "--unpad-brackets",
+        "--delete-empty-lines",
+        "--squeeze-lines=2",
+        "--align-pointer=type",
+        "--align-reference=name",
+        "--add-braces",
+        "--add-one-line-braces",
+        "--attach-return-type",
+        "--attach-return-type-decl",
+        "--keep-one-line-statements",
+        "--keep-one-line-blocks",
+        "--close-templates",
+        "--convert-tabs",
+        "--max-code-length=160",
+        "--lineend=linux",
+        "${file}"
+      ]
+    }
+  ]
+}
