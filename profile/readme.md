@@ -31,5 +31,5 @@
 [kofi-src]: https://img.shields.io/badge/%20-30363D?style=for-the-badge&logo=kofi&logoColor=FF6433
 [coffee-src]: https://img.shields.io/badge/%20-30363D?style=for-the-badge&logo=buymeacoffee&logoColor=FFDD00
 
-[github-href]: https://github.com/IsleOfTheDead
-[discord-href]: https://discord.gg/IsleOfTheDead
+[github-href]: https://github.com/ExileDeadZone
+[discord-href]: https://discord.gg/ExileDeadZone
